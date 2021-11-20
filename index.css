@@ -1,0 +1,19 @@
+*
+{
+    font-family: "Mitr";
+    text-align: center;
+    background-color: #20232A;
+    color: #61DAFB;
+}
+
+input, button
+{
+    border: none;
+}
+
+img
+{
+    margin: 0 auto;
+    width: 30%;
+    height: 30%;
+}
